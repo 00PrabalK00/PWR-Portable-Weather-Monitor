@@ -8,6 +8,8 @@
 <body>
     <h1>Weather Monitoring System</h1>
     <p>This repository contains an Arduino sketch for a weather monitoring system. The system utilizes various sensors to measure temperature, humidity, pressure, and rain status. The data is displayed on an LCD screen and uses LEDs to indicate the weather conditions.</p>
+    <img src="image_2023-12-01_170820377.png" alt="Image 1">
+    <img src="image_2023-12-01_170824688.png" alt="Image 2">
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#dependencies">Dependencies</a></li>
